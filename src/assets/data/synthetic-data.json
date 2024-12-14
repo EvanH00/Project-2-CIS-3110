@@ -1,0 +1,13 @@
+[
+    {
+      "itemNumber": 1,
+      "purchaseDate": "2024-12-01",
+      "buyerID": "B001"
+    },
+    {
+      "itemNumber": 2,
+      "purchaseDate": "2024-12-02",
+      "buyerID": "B002"
+    }
+    // Add more items here up to 100
+  ]
